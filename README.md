@@ -3,6 +3,7 @@ Overview Project
 I. List Of Hardware
   1. Rasberry PI
   2. Temperature Sensor (Sensor Suhu)
+  3. lcd
      
 II. Technologies
   1. MQTT
