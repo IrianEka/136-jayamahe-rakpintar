@@ -4,6 +4,8 @@ I. List Of Hardware
   1. Brain Rasberry PI 4
   2. Sensor suhu DHT11
   3. lcd i2c
+  4. camera ---
+  5. 
      
 II. Technologies
   1. data sheet/excel (harga, tabel, stok, kalkulasi)
