@@ -3,9 +3,9 @@ Overview Project
 I. List Of Hardware
   1. Brain Rasberry PI 4
   2. Sensor suhu DHT11
-  3. lcd i2c 3x
+  3. lcd 16x2 i2c 3x
   4. usb camera ---
-  6. relay 5v 2ch
+  6. adaptor 5v 2a
      
 II. Technologies
   1. data sheet/excel (harga, tabel, stok, kalkulasi)
